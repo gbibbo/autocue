@@ -1,0 +1,77 @@
+{
+  "annotations": [
+    {
+      "namespace": "segment_open",
+      "annotation_metadata": {
+        "version": "1.0",
+        "annotator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "curator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "validation": "",
+        "annotation_rules": "Switch point",
+        "corpus": "Techno",
+        "annotation_tools": "Sonic Visualizer",
+        "data_source": "Personal collection"
+      },
+      "data": [
+        {
+          "time": 0.009,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro beat"
+        },
+        {
+          "time": 59.545,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+        {
+          "time": 89.312,
+          "duration": 0,
+          "confidence": null,
+          "value": "main"
+        },
+        {
+          "time": 223.252,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro melody"
+        },
+        {
+          "time": 238.149,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro beat"
+        },
+        {
+          "time": 312.570,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro melody"
+        },
+        {
+          "time": 329.300,
+          "duration": 0,
+          "confidence": null,
+          "value": "end"
+        }
+      ],
+      "sandbox": {}
+    }
+  ],
+  "file_metadata": {
+    "artist": "Brendon Moeller",
+    "release": "MODULAR FREQ",
+    "title": "Linear Daybreak",
+    "identifiers": {},
+    "jams_version": "0.2.0",
+    "duration": 330.025
+  },
+  "sandbox": {}
+}

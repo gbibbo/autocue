@@ -1,0 +1,71 @@
+{
+  "annotations": [
+    {
+      "namespace": "segment_open",
+      "annotation_metadata": {
+        "version": "1.0",
+        "annotator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "curator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "validation": "",
+        "annotation_rules": "Switch point",
+        "corpus": "Techno",
+        "annotation_tools": "Sonic Visualizer",
+        "data_source": "Personal collection"
+      },
+      "data": [
+        {
+          "time": 1.019,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro beat"
+        },
+        {
+          "time": 181.020,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+        {
+          "time": 221.020,
+          "duration": 0,
+          "confidence": null,
+          "value": "main"
+        },
+        {
+          "time": 360.629,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro melody"
+        },
+        {
+          "time": 361.020,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro beat"
+        },
+        {
+          "time": 451.047,
+          "duration": 0,
+          "confidence": null,
+          "value": "end"
+        }
+      ],
+      "sandbox": {}
+    }
+  ],
+  "file_metadata": {
+    "artist": "Oliver Lieb",
+    "release": "Bedrock Records",
+    "title": "Red Phosphorous",
+    "identifiers": {},
+    "jams_version": "0.2.0",
+    "duration": 452.663
+  },
+  "sandbox": {}
+}

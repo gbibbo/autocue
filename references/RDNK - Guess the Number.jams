@@ -1,0 +1,77 @@
+{
+  "annotations": [
+    {
+      "namespace": "segment_open",
+      "annotation_metadata": {
+        "version": "1.0",
+        "annotator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "curator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "validation": "",
+        "annotation_rules": "Switch point",
+        "corpus": "Techno",
+        "annotation_tools": "Sonic Visualizer",
+        "data_source": "Personal collection"
+      },
+      "data": [
+        {
+          "time": 0.202,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+        {
+          "time": 62.138,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro beat"
+        },
+        {
+          "time": 108.590,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+        {
+          "time": 124.073,
+          "duration": 0,
+          "confidence": null,
+          "value": "main"
+        },
+        {
+          "time": 263.428,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro beat"
+        },
+        {
+          "time": 278.912,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro melody"
+        },
+        {
+          "time": 311.836,
+          "duration": 0,
+          "confidence": null,
+          "value": "end"
+        }
+      ],
+      "sandbox": {}
+    }
+  ],
+  "file_metadata": {
+    "artist": "0010X0010",
+    "release": "MODULAR FREQ",
+    "title": "Escape From Rodeo Drive",
+    "identifiers": {},
+    "jams_version": "0.2.0",
+    "duration": 284.565
+  },
+  "sandbox": {}
+}

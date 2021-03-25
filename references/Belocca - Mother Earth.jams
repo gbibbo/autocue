@@ -1,0 +1,89 @@
+{
+  "annotations": [
+    {
+      "namespace": "segment_open",
+      "annotation_metadata": {
+        "version": "1.0",
+        "annotator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "curator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "validation": "",
+        "annotation_rules": "Switch point",
+        "corpus": "Techno",
+        "annotation_tools": "Sonic Visualizer",
+        "data_source": "Personal collection"
+      },
+      "data": [
+        {
+          "time": 0.041,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+                {
+          "time": 29.809,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro beat"
+        },
+        {
+          "time": 59.577,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+        {
+          "time": 89.344,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro beat"
+        },
+        {
+          "time": 119.111,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+        {
+          "time": 148.883,
+          "duration": 0,
+          "confidence": null,
+          "value": "main"
+        },
+        {
+          "time": 357.250,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro melody"
+        },
+        {
+          "time": 387.018,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro beat"
+        },
+        {
+          "time": 446.747,
+          "duration": 0,
+          "confidence": null,
+          "value": "end"
+        }
+      ],
+      "sandbox": {}
+    }
+  ],
+  "file_metadata": {
+    "artist": "Belocca",
+    "release": "Mainground Music",
+    "title": "Mother Earth",
+    "identifiers": {},
+    "jams_version": "0.2.0",
+    "duration": 450.809
+  },
+  "sandbox": {}
+}

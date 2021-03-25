@@ -1,0 +1,71 @@
+{
+  "annotations": [
+    {
+      "namespace": "segment_open",
+      "annotation_metadata": {
+        "version": "1.0",
+        "annotator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "curator": {
+          "name": "Gabriel Bibbó",
+          "email": "gabriel.bibbo01@estudiant.upf.edu"
+        },
+        "validation": "",
+        "annotation_rules": "Switch point",
+        "corpus": "Techno",
+        "annotation_tools": "Sonic Visualizer",
+        "data_source": "Personal collection"
+      },
+      "data": [
+        {
+          "time": 0.025,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro beat"
+        },
+        {
+          "time": 85.834,
+          "duration": 0,
+          "confidence": null,
+          "value": "intro melody"
+        },
+        {
+          "time": 99.787,
+          "duration": 0,
+          "confidence": null,
+          "value": "main"
+        },
+        {
+          "time": 427.932,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro melody"
+        },
+        {
+          "time": 431.653,
+          "duration": 0,
+          "confidence": null,
+          "value": "outro beat"
+        },
+        {
+          "time": 531.709,
+          "duration": 0,
+          "confidence": null,
+          "value": "end"
+        }
+      ],
+      "sandbox": {}
+    }
+  ],
+  "file_metadata": {
+    "artist": "Christopher Kah",
+    "release": "Highwav Records",
+    "title": "Thrust",
+    "identifiers": {},
+    "jams_version": "0.2.0",
+    "duration": 534.348
+  },
+  "sandbox": {}
+}
